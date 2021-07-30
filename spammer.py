@@ -6,6 +6,8 @@ interval = float(input('Enter interval(seconds): '))
 
 times = int(input('How many times would you like to spam: '))
 
+print("Starting in 3 seconds...")
+
 time.sleep(3)
 
 for i in range(times):
