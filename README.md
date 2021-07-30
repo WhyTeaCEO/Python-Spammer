@@ -1,5 +1,3 @@
 # Python-Spammer
 
-Text Spammer made with python
-
-Used auto-py-to-exe to convert to exe
+Text Spammer made with python, nothing special
