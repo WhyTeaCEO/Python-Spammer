@@ -26,12 +26,21 @@ or
 ## Example
 
 input >> py spammer.py
+
 output >> Enter Word: 
+
 input >> Rule Britannia, Britannia Rule The Waves
+
 output >> Enter interval(seconds):
+
 input >> 0.2
+
 output >> How many times would you like to spam:
+
 input >> 10
+
 output >> Starting in 3 seconds...
+
 *simulates key presses*
+
 output >> Done
